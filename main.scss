@@ -261,21 +261,21 @@
     }
 
     .part-2 {
+        padding-left: 8%;
+        padding-right: 8%;
         h3 {
-            padding-left: 8%;
-            padding-right: 8%;
-            margin-top: 98%;
+            margin-top: 100%;
+            padding-top: 15%;
             font-size: 210%;
+            width: 100%;
             color: rgb(12, 12, 12);
             letter-spacing: 0.3px;
             font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         }
         #text-2 {
-            padding-left: 8%;
-            padding-right: 8%;
             color: rgb(190, 190, 190);
-            margin-top: -4%;
-            margin-bottom: 10%;
+            margin-top: -6%;
+            margin-bottom: 15%;
             font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
             font-size: 90%;
             letter-spacing: 0.5px;
@@ -285,14 +285,12 @@
             font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
             font-size: 120%;
             letter-spacing: 10px;
-            padding-left: 8%;
-            padding-right: 8%;
-            padding-bottom: 10%;
+            padding-bottom: 15%;
         }
         #arrow {
-            margin-left: 63%;
+            margin-left: 60%;
             position: absolute;
-            margin-top: -18.5%;
+            margin-top: -21.5%;
             margin-bottom: 15%;
         }
     }
@@ -300,20 +298,22 @@
 
     .container-2 {
         .part-3 {
-            h2 {
+            #image-dark {
+                width: 100%;
+            }
+            .furniture {
                 padding: 8%;
+            h2 {
                 font-size: 130%;
                 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
                 font-weight: bold;
                 letter-spacing: 3.5px;
                 color: black;
-            }
-            #image-dark {
                 width: 100%;
             }
+
             #text-3 {
-                padding: 8%;
-                margin-top: -15%;
+                margin-top: 0%;
                 color: rgb(190, 190, 190);
                 margin-bottom: 5%;
                 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -321,6 +321,7 @@
                 letter-spacing: 0.5px;
                 line-height: 130%;
             }
+        }
             #image-light {
                 width: 100%;
             }
